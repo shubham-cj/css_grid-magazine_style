@@ -74,6 +74,7 @@ main .tall {
     main {
         grid-template-columns: 1fr;
         max-width: 400px;
+        margin: 40px auto;
     }
 
     nav {
@@ -90,5 +91,6 @@ main .tall {
         grid-template-columns: 1fr;
         max-width: 300px;
         grid-auto-rows: 200px;
+        margin: 20px auto;
     }
 }
